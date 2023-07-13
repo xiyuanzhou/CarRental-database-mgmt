@@ -1,3 +1,3 @@
 # CarRental-database-mgmt
 
-## Team member: Wen Luo, Xiyuan Zhou
+### Team member: Wen Luo, Xiyuan Zhou
