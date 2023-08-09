@@ -1,7 +1,7 @@
 ## CarRental Database Management Web App 
 
 ### Team member: 
-  - Wen Luo
+  - Wen Luo，011399375
   - Xiyuan Zhou, 013311259
 
 ----------------------------------------
