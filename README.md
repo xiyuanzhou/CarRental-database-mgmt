@@ -58,7 +58,7 @@ the version is not JDK 1.8. Also, the Apache Tomcat isn't available)
     - Suppose to connect with Apache Tomcat
       
 ------------------------------------------------
-**Timeline and Minutes Used**
+**Timeline and Minutes Used** (Times is rounded up, not really that amount)
 
 Week 1:
 
